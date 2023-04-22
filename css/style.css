@@ -49,6 +49,9 @@ body{
 .img{
     width: 100%;
     height: 600px;
+    background-size: cover;
+    position: relative;
+    
 }
 
 
